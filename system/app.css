@@ -36,7 +36,6 @@ html, body {
   font-size: 100%; }
 
 body {
-  background: #fff;
   color: #222;
   padding: 0;
   margin: 0;
@@ -8071,7 +8070,7 @@ Copyright (c) 2015 Daniel Eden
   display: none !important;
 }
 body {
-  background:black;
+  background-image: url("assets/background.png");
   color: white;
   height:100%;
   overflow:hidden !important;
